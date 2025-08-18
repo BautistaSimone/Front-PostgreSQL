@@ -86,7 +86,7 @@ function App() {
         <div className="row g-3">
           <div className="col-md-3">
             <input
-              placeholder="Esto es otro test"
+              placeholder="Cha chan cha cha"
               className="form-control"
               value={name}
               onChange={(e) => setName(e.target.value)}
